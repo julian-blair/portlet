@@ -19,6 +19,8 @@
 
         <portlet-info>
             <title>NinjaPortlet</title>
+            <short-title>Ninjalet</short-title>
+            <keywords>Ninja</keywords>
         </portlet-info>
     </portlet>
 </portlet-app>

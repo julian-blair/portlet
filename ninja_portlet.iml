@@ -30,5 +30,9 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: senselogic.sitevision.public-api:sitevision-public-api:3.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.portlet:portlet-api:2.0" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.velocity:velocity:1.5" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.1" level="project" />
+    <orderEntry type="library" name="Maven: oro:oro:2.0.8" level="project" />
   </component>
 </module>
